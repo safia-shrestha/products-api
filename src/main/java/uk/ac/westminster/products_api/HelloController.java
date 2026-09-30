@@ -32,4 +32,7 @@ public class HelloController {
     @GetMapping("/goodbye")
     public String goodbye() {return "GoodBye from SpringBoot!"; }
 
+
+
+
 }
