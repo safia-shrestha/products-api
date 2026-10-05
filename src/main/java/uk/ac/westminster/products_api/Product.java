@@ -19,6 +19,7 @@ public class Product {
     public String getName(){
         return name;
     }
+    //No.25- Ans: There will be missmatch in the fields.
     public double getPrice(){
         return price;
     }
