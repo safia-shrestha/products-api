@@ -6,6 +6,8 @@ public class Customer {
     private String email;
     private Address address;
 
+    public Customer(){}
+
     public Customer(Long id, String name, String email, Address address){
         this.id = id;
         this.name = name;
